@@ -1,4 +1,4 @@
-# 🤖❓ AI CHATBOT Web App
+# AI CHATBOT Web App
 
 **Author:** OBI IKECHUKWU
 **Student ID:** 23CE034397
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Live App:** [https://obi-ikechukwu-23ce034397-ai-app.onrender.com](https://obi-23ce034397-ai-chatbot-web-app.onrender.com/)
 
@@ -15,13 +15,13 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project is a chatbot web app. The application provides a seamless bridge between a user-friendly web interface and an external Large Language Model (LLM).
 
 Unlike standard implementations using ChatGPT, this system utilizes the **Google Gemini API** to process natural language questions. The app captures user input, queries the AI backend, logs the interaction in a persistent database, and returns the feedback to the user in real-time.
 
-## ✨ Key Features
+## Key Features
 
 * **Universal Query Interface:** Accepts any text-based question from the user via a clean `index.html` interface.
 * **External AI Integration:** Communicates with the Google Gemini Pro model for intelligent response generation.
@@ -31,7 +31,7 @@ Unlike standard implementations using ChatGPT, this system utilizes the **Google
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 ### Back-End
 
@@ -51,7 +51,7 @@ Unlike standard implementations using ChatGPT, this system utilizes the **Google
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Following the required assignment structure:
 
@@ -76,7 +76,7 @@ OBI_IKECHUKWU_23CE034397_AI_QUERY_APP/
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 1. **Clone the repository:**
 ```bash
@@ -106,7 +106,7 @@ python app.py
 
 ```
 
-## 📬 Contact
+## Contact
 
 **Student email:** iobi.2301688@stu.cu.edu.ng
 
